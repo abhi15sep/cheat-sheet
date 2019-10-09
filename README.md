@@ -1,2 +1,2 @@
 # cheat-sheet
-Cheat-sheet repository
+More examples can be seen in https://devhints.io
